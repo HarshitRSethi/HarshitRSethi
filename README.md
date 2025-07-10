@@ -10,7 +10,7 @@ URL: https://harshitrsethi.github.io/
 - 💻 C++ (learning in progress)
 - 🌐 HTML, CSS, JavaScript
 - 🐱 Git & GitHub
-- 💡 Interested in: AI, Cybersecurity, Web Development
+- 💡 Interested in: Competitive Programming, Machine Learning, Web Development
 
 ## 📚 Currently Learning
 - C++ Programming (YouTube)
