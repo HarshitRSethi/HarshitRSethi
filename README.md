@@ -3,7 +3,7 @@
 I'm a first-year IT undergrad at IIIT Allahabad, passionate about learning programming, web development, and exploring the world of AI & Machine Learning.
 
 ## 🚀 Current Projects
-- **[Terminal Portfolio Website](https://github.com/HarshitRSethi/Terminal-Style-Portfolio)** – My personal site styled like a terminal, built with HTML, CSS, and JavaScript.
+- **[Terminal Portfolio Website](https://github.com/HarshitRSethi/HarshitRSethi.github.io)** – My personal site styled like a terminal, built with HTML, CSS, and JavaScript.
 URL: https://harshitrsethi.github.io/
 
 ## 🔧 Tech Stack
