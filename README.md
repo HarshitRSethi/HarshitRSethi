@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Harshit Sethi
 
-I'm a first-year IT undergrad at IIIT Allahabad, passionate about learning programming, web development, and exploring the world of AI & Machine Learning.
+I'm a first-year IT undergrad at IIIT Allahabad, passionate about learning programming, web development, and exploring the world of AI.
 
-## 🚀 Current Projects
+## 🚀 Projects
 - **[Terminal Portfolio Website](https://github.com/HarshitRSethi/HarshitRSethi.github.io)** – My personal site styled like a terminal, built with HTML, CSS, and JavaScript with help of Chat-GPT.
 URL: https://harshitrsethi.github.io/
 - **[CS50 Week 1 – C Programming Solutions](https://github.com/HarshitRSethi/CS_50_C)** – My solutions for CS50's Week 1 problem set, written in C. It starts with simple programs like “Hello, world” and “Hello, me,” and progresses to challenges like building pyramids using #, implementing the Greedy Algorithm for coin change, and validating credit cards using Luhn’s Algorithm.
@@ -15,11 +15,12 @@ Instructions to open it is in txt file in it's git repo.
 - 🌐 HTML, CSS
 - 🐱 Git & GitHub
 - 📝  Scratch
-- 💡 Interested in: Competitive Programming, Machine Learning, Web Development
+- 💡 Interested in: Competitive Programming, Machine Learning
 
 ## 📚 Currently Learning
+- C++
+- Information Technology (IIITA)
 - Computer Science (CS 50)
-- ML courses (soon!)
 
 ## 🌱 Goals
 - Build cool & useful projects
