@@ -3,14 +3,15 @@
 I'm a first-year IT undergrad at IIIT Allahabad, passionate about learning programming, web development, and exploring the world of AI.
 
 ## 🚀 Projects
-- **[Terminal Portfolio Website](https://github.com/HarshitRSethi/HarshitRSethi.github.io)** – My personal site styled like a terminal, built with HTML, CSS, and JavaScript with help of Chat-GPT.
+- **[Terminal Portfolio Website](https://github.com/HarshitRSethi/HarshitRSethi.github.io)** – My personal site styled like a terminal, built with HTML, CSS, and JavaScript with help of Chat-GPT.  
 URL: https://harshitrsethi.github.io/
-- **[CS50 Solutions](https://github.com/HarshitRSethi/CS50-2025-Solutions)** – Completed Harvard’s CS50: Introduction to Computer Science (2025 edition) and implemented all exercises and problem sets from Week 0 to Week 6. Solutions include projects in C, Python, and Scratch, covering algorithms, data structures, text processing, voting systems, and simulations like genetic inheritance and DNA sequence matching.
+- **[CS50 Solutions](https://github.com/HarshitRSethi/CS50-2025-Solutions)** – Completed Harvard’s CS50: Introduction to Computer Science (2025 edition) and implemented all exercises and problem sets from Week 0 to Week 7. Solutions include projects in C, Python, SQL and Scratch, covering algorithms, data structures, text processing, voting systems, and simulations like genetic inheritance and DNA sequence matching and data querying.
 
 
 ## 🔧 Tech Stack
 - 🐍 Python
 - 💻 C, C++
+- 🧠 SQL  
 - 🌐 HTML, CSS
 - 🐱 Git & GitHub
 - 📝  Scratch
